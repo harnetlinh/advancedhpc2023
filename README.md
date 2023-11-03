@@ -12,5 +12,6 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: MyName
+* Name: Ha Ngoc Linh
+* Student Code: M21ICT006
 
